@@ -55,18 +55,6 @@ UserProfileCardGenerator/
    ```
    http://127.0.0.1:5000
    ```
-
-## Future Enhancements
-
-- Edit profile details
-- Upload profile images directly
-- Download profile card
-- Multiple profile templates
-- Database integration
-
-## Author
-
-**Asthanaditta Naga Sri Lalitha**  
 **B.Tech CSE (AI & ML)**
 
 ---
